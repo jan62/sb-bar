@@ -1,0 +1,70 @@
+h1,h4,p{
+    color:white;
+}
+.maindiv{
+    
+    margin-top: 0;
+    height: 450px;
+    display: flex;
+   
+    justify-content: space-between;
+}
+.som{
+    
+    display: flex;
+   width:30%;
+   justify-content: space-around;
+}
+.korzina{
+    width:30%;
+    display: flex;
+    justify-content: space-around;
+}
+.maindiv2{
+    margin-left: 100px;
+    display: flex;
+    justify-content: space-between;
+    width:88%;
+}
+.stock{
+    background-image:url('../../img/pep.png');
+  width:88%;
+    margin-left: 100px;
+}
+.firm{
+    margin-top:0;
+    width: 600px;
+    height: 170px;
+}
+.firm p{
+  font-size: 24px;  
+}
+.firm{
+    
+    font-size: 36px;
+}
+.som1{
+    color:red;
+    font-size: 24px;
+    font-weight: bolder;
+}
+.som2{
+    color:green;
+    font-size: 24px;
+    font-weight: bolder;
+}
+.act{
+    width: 600px;
+    height: 400px;
+}
+.stake{
+    margin-right: 40px;
+}
+.stake{
+    margin-left: 40px;
+}
+.ac{
+    margin-left: 15px;
+    font-size: 48px;
+    font-weight: bolder;
+}

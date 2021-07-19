@@ -1,0 +1,26 @@
+.footer{
+    width:88%;
+    height: 200px;
+    display: flex;
+    color:white;
+    justify-content: space-around;
+    position: relative;
+    margin-left: 70px;
+    margin-top: 200px;
+}
+.logo img{
+    width: 200px;
+    height: 200px;
+}
+.jobb{
+    width: 88%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+.wa{
+  vertical-align: auto;
+  
+    
+}
+

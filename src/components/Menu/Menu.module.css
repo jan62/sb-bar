@@ -1,0 +1,75 @@
+
+p{
+    color:white;
+}
+
+.pp{
+    font-weight: bolder;
+    margin: 0;
+    color:white;
+    font-size: 48px;
+}
+
+.mainmenu{
+    margin-left: 120px;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width:88%;
+
+}
+.menubar{
+    margin-left: 100px;
+    width: 85%;
+    font-size: 16px;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 60px;
+   
+}
+strong{
+    color:white;
+}
+.toBasket{
+    color:white;
+    background-color: black;
+}
+.menu{
+ margin-bottom: 40px;
+
+}
+.som{
+    display: flex;
+    justify-content: space-around;
+    width: 150px;
+}
+.som strong{
+    margin-top: 17px;
+}
+.text2{
+    display: flex;
+}
+button { 
+    margin-top: 10px;
+    color:white;    
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border-color: white;
+    cursor:pointer;
+    overflow: hidden; 
+    width: 117px;
+    height: 40px; 
+    font-size: 14px;      
+}
+.pip{
+    font-size: 18px;
+}
+.card img{
+    width: 310;
+    height:206 ;
+}
+.menu1{
+    
+    padding: 0;
+    background-image: url('../../img/mushroom.png');
+}

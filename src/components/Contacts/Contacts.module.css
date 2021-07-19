@@ -1,0 +1,25 @@
+.mainback{
+    background-image:url('../../img/pis1.png');
+ 
+
+}
+.div1{
+    
+    width: 88%;
+    
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+}
+.social{
+    display: flex;
+}
+.div1 p{
+    color:white;
+    font-size: 12px;
+}
+.con{
+    font-size: 48px;
+    font-weight: bolder;
+
+}

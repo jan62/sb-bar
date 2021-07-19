@@ -1,0 +1,66 @@
+.bulgur{
+    margin-left: 100px;
+    width: 80%;
+    display: flex;
+    margin-bottom: 80px;
+    
+}
+.plus{
+    display: flex;
+}
+.cena{
+    display: flex;
+    
+}
+.forel{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+
+}
+.buk{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.for{
+    margin: 0;
+    width: 100%;
+    margin-left: 12%;
+    font-size: 36px;
+}
+.imgg img{
+width: 400px;
+height: 265px;
+}
+.bas{
+    margin-left: 5%;
+    font-size: 48px;
+}
+.obsh{
+    width: 400px;
+    display: flex;
+    width: 100%;
+}
+.kolvo{
+    width: 400px;
+    display: flex;
+    
+}
+.ofor{
+    width: 100%;
+}
+.more{
+    display: flex;
+    justify-content: space-around;
+}
+.takje{
+    margin-top: 150px;
+    color:white;
+    font-size: 36px;
+}
+.bass{
+    font-size: 48px;
+    font-weight: bolder;
+    margin-left: 100px;
+}

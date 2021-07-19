@@ -1,0 +1,28 @@
+.aboutUs{
+    margin-left: 140px;
+    width:88%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 150px;
+}
+.aboutUs p{
+    font-size: 18px;
+
+    color:white;
+}
+.aboutUs img{
+width: 620px;
+height: 464px;
+}
+.text{
+    margin-left: 40px;
+}
+.onas{
+    margin-left: 120px;
+    font-weight: bolder;
+    color:white;
+    font-size: 48px;
+}
+.slider2{
+    margin-left: 25px;
+}
